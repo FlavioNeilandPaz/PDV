@@ -1,23 +1,17 @@
 <html>
 <div class="bloco">
                     <div class="titulo_bloco">
-                        <h1>T2Ti Pegasus PDV</h1>
+                        <h1>PDV</h1>
                     </div>
-  Este repositório mantém o código do sistema T2Ti Pegasus PDV. Na versão Lite é possível emitir Recibo (desenvolvido para MEI) e na versão fiscal é possível emitir documentos fiscais: NFC-e, SAT e MFE (SAT e MFE em desenvolvimento).
+  Este repositório mantém o código do sistema PDV. Na versão Lite é possível emitir Recibo (desenvolvido para MEI) e na versão fiscal é possível emitir documentos fiscais: NFC-e, SAT e MFE (SAT e MFE em desenvolvimento).
                     <hr />
-                    <h3>Curso T2Ti Pegasus PDV</h3>
-			<a href="http://t2ti.com/curso/video/pegasus-pdv-5000/?utm_source=GITHUB">
-			<img src="http://t2ti.com/images/erp3/mobile-screen-topo.png" />
+                    <h3></h3>
+			<a href="">
 			</a>
                     <br /> <br /> 
-Para compreender como implementar o Pegasus PDV com emissão de recibo para MEI e com emissão de documentos fiscais (NFC-e, SAT e MFE), faça o Curso T2Ti Pegasus PDV disponível no seguinte link <a href="http://t2ti.com/curso/video/pegasus-pdv-5000/?utm_source=GITHUB">http://t2ti.com/curso/video/pegasus-pdv-5000/</a>. O Pegasus PDV já está em produção em fase beta. Você pode baixar os fontes e alterar de acordo com sua vontade e pode também acompanhar o andamento do projeto no <a href="https://trello.com/b/xnlmJ1wc/t2ti-pegasus-pdv">Quadro Trello Público</a> criado para este fim. 	
-                    <br /> <br /> 
-	Clique na imagem acima para acessar a página do Curso Pegasus PDV que contém <b>153 horas em vídeo aulas</b>. Após fazer este curso você estará apto para contruir o seu próprio PDV com a emissão de recibo, NFC-e, SAT ou MFE. Além disso, compreenderá plenamente como utilizar o código fonte aqui disponível.
-			<a href="http://t2ti.com/curso/video/pegasus-pdv-5000/?utm_source=GITHUB">
-				<center><img src="http://t2ti.com/images/erp3/pegasus-consome-acbr-monitor.jpg" /></center>
-			</a>
-	<hr />
-                    <h3>Características do Projeto</h3>
+Para compreender como implementar o PDV com emissão de recibo para MEI e com emissão de documentos fiscais (NFC-e, SAT e MFE). O PDV já está em produção em fase beta. Você pode baixar os fontes e alterar de acordo com sua vontade e pode também acompanhar o andamento do projeto no <a href="https://trello.com/b/xnlmJ1wc/t2ti-pegasus-pdv">Quadro Trello Público</a> criado para este fim. 	
+             
+                    
 Veja abaixo uma lista de características do projeto. Provavelmente existe alguma coisa que você, desenvolvedor, está procurando para o seu projeto e vai aproveitar daqui. É possível também que você já inicie seu negócio com essa aplicação. Desejamos tudo de bom e muito sucesso para você!
 	<br />
 	<br />
@@ -108,10 +102,8 @@ Se tiver alguma dificuldade para rodar o projeto, siga o passo a passo abaixo. L
 <br />7: execute o comando: flutter update-packages
 <br />8: execute o  comando: flutter pub get	
 	<hr />
-	Assista ao vídeo de apresentação no Youtube.
-	<br /><br />
+	
+	
 <center>	
-								<a href="https://www.youtube.com/watch?v=8ppZrzLvFjs?rel=0">
-									<img src="https://img.youtube.com/vi/8ppZrzLvFjs/maxresdefault.jpg" alt="telas" /> </a>
 				</center>	
 </html>
